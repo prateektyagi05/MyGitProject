@@ -2,9 +2,11 @@ This is file1 to write hello world..!!
 
 class MyClass{
 
-	private void myMethod(String str){
 
-	System.out.println("str");
+	private static void myMethod(){
+
+	System.out.println("Hello World");
+
 
 	}	
 
